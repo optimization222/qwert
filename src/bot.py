@@ -193,9 +193,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "🤖 Бот для группы\n"
         "/set_welcome текст — сменить приветствие (с {name})\n"
-        "/show_welcome — показать текущее\n"
-        "/getid — узнать ID группы\n"
-        "/help — это сообщение"
+        "/show_welcome — показать текущее"
     )
 
 # === МОДЕРАЦИЯ МАТА ===
