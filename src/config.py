@@ -1,0 +1,2 @@
+BOT_TOKEN = "8711766448:AAGEj8llrLEZundFbr02YvDTbpNbF2aGqyM"
+GROUP_ID  = -1003787559268  # замени на свой
